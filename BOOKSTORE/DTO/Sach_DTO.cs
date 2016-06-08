@@ -50,5 +50,7 @@ namespace DTO
             get { return _donGiaBan; }
             set { _donGiaBan = value; }
         }
+
+        public Sach_DTO() { }
     }
 }

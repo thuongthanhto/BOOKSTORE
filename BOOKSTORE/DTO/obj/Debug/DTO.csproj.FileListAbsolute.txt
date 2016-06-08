@@ -13,3 +13,8 @@ E:\Dropbox\BOOKSTORE\DTO\bin\Debug\DTO.pdb
 E:\Dropbox\BOOKSTORE\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
 E:\Dropbox\BOOKSTORE\DTO\obj\Debug\DTO.dll
 E:\Dropbox\BOOKSTORE\DTO\obj\Debug\DTO.pdb
+D:\GitHub\BOOKSTORE\BOOKSTORE\DTO\bin\Debug\DTO.dll
+D:\GitHub\BOOKSTORE\BOOKSTORE\DTO\bin\Debug\DTO.pdb
+D:\GitHub\BOOKSTORE\BOOKSTORE\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\GitHub\BOOKSTORE\BOOKSTORE\DTO\obj\Debug\DTO.dll
+D:\GitHub\BOOKSTORE\BOOKSTORE\DTO\obj\Debug\DTO.pdb

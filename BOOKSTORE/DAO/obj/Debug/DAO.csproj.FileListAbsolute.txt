@@ -33,3 +33,10 @@ E:\Đồ án NM CNPM\BOOKSTORE\DAO\bin\Debug\DTO.pdb
 E:\Đồ án NM CNPM\BOOKSTORE\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
 E:\Đồ án NM CNPM\BOOKSTORE\DAO\obj\Debug\DAO.dll
 E:\Đồ án NM CNPM\BOOKSTORE\DAO\obj\Debug\DAO.pdb
+D:\GitHub\BOOKSTORE\BOOKSTORE\DAO\bin\Debug\DAO.dll
+D:\GitHub\BOOKSTORE\BOOKSTORE\DAO\bin\Debug\DAO.pdb
+D:\GitHub\BOOKSTORE\BOOKSTORE\DAO\bin\Debug\DTO.dll
+D:\GitHub\BOOKSTORE\BOOKSTORE\DAO\bin\Debug\DTO.pdb
+D:\GitHub\BOOKSTORE\BOOKSTORE\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\GitHub\BOOKSTORE\BOOKSTORE\DAO\obj\Debug\DAO.dll
+D:\GitHub\BOOKSTORE\BOOKSTORE\DAO\obj\Debug\DAO.pdb

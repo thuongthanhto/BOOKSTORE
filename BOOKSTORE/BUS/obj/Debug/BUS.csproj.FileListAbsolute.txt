@@ -43,3 +43,12 @@ E:\Đồ án NM CNPM\BOOKSTORE\BUS\bin\Debug\DTO.pdb
 E:\Đồ án NM CNPM\BOOKSTORE\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
 E:\Đồ án NM CNPM\BOOKSTORE\BUS\obj\Debug\BUS.dll
 E:\Đồ án NM CNPM\BOOKSTORE\BUS\obj\Debug\BUS.pdb
+D:\GitHub\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\BUS.dll
+D:\GitHub\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\BUS.pdb
+D:\GitHub\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\DAO.dll
+D:\GitHub\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\DTO.dll
+D:\GitHub\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\DAO.pdb
+D:\GitHub\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\DTO.pdb
+D:\GitHub\BOOKSTORE\BOOKSTORE\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\GitHub\BOOKSTORE\BOOKSTORE\BUS\obj\Debug\BUS.dll
+D:\GitHub\BOOKSTORE\BOOKSTORE\BUS\obj\Debug\BUS.pdb
