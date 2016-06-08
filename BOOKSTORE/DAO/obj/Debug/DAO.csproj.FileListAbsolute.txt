@@ -1,0 +1,35 @@
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\DAO\bin\Debug\DAO.dll
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\DAO\bin\Debug\DAO.pdb
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\DAO\bin\Debug\DTO.dll
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\DAO\bin\Debug\DTO.pdb
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\DAO\obj\Debug\DAO.dll
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\DAO\obj\Debug\DAO.pdb
+E:\BOOKSTORE\DAO\bin\Debug\DAO.dll
+E:\BOOKSTORE\DAO\bin\Debug\DAO.pdb
+E:\BOOKSTORE\DAO\bin\Debug\DTO.dll
+E:\BOOKSTORE\DAO\bin\Debug\DTO.pdb
+E:\BOOKSTORE\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\BOOKSTORE\DAO\obj\Debug\DAO.dll
+E:\BOOKSTORE\DAO\obj\Debug\DAO.pdb
+E:\Lập trình\BOOKSTORE\DAO\bin\Debug\DAO.dll
+E:\Lập trình\BOOKSTORE\DAO\bin\Debug\DAO.pdb
+E:\Lập trình\BOOKSTORE\DAO\bin\Debug\DTO.dll
+E:\Lập trình\BOOKSTORE\DAO\bin\Debug\DTO.pdb
+E:\Lập trình\BOOKSTORE\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Lập trình\BOOKSTORE\DAO\obj\Debug\DAO.dll
+E:\Lập trình\BOOKSTORE\DAO\obj\Debug\DAO.pdb
+E:\Dropbox\BOOKSTORE\DAO\bin\Debug\DAO.dll
+E:\Dropbox\BOOKSTORE\DAO\bin\Debug\DAO.pdb
+E:\Dropbox\BOOKSTORE\DAO\bin\Debug\DTO.dll
+E:\Dropbox\BOOKSTORE\DAO\bin\Debug\DTO.pdb
+E:\Dropbox\BOOKSTORE\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Dropbox\BOOKSTORE\DAO\obj\Debug\DAO.dll
+E:\Dropbox\BOOKSTORE\DAO\obj\Debug\DAO.pdb
+E:\Đồ án NM CNPM\BOOKSTORE\DAO\bin\Debug\DAO.dll
+E:\Đồ án NM CNPM\BOOKSTORE\DAO\bin\Debug\DAO.pdb
+E:\Đồ án NM CNPM\BOOKSTORE\DAO\bin\Debug\DTO.dll
+E:\Đồ án NM CNPM\BOOKSTORE\DAO\bin\Debug\DTO.pdb
+E:\Đồ án NM CNPM\BOOKSTORE\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Đồ án NM CNPM\BOOKSTORE\DAO\obj\Debug\DAO.dll
+E:\Đồ án NM CNPM\BOOKSTORE\DAO\obj\Debug\DAO.pdb

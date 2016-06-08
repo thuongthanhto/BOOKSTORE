@@ -1,0 +1,45 @@
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\BUS\bin\Debug\BUS.dll
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\BUS\bin\Debug\BUS.pdb
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\BUS\bin\Debug\DAO.dll
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\BUS\bin\Debug\DTO.dll
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\BUS\bin\Debug\DAO.pdb
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\BUS\bin\Debug\DTO.pdb
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\BUS\obj\Debug\BUS.dll
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\BUS\obj\Debug\BUS.pdb
+E:\BOOKSTORE\BUS\bin\Debug\BUS.dll
+E:\BOOKSTORE\BUS\bin\Debug\BUS.pdb
+E:\BOOKSTORE\BUS\bin\Debug\DAO.dll
+E:\BOOKSTORE\BUS\bin\Debug\DTO.dll
+E:\BOOKSTORE\BUS\bin\Debug\DAO.pdb
+E:\BOOKSTORE\BUS\bin\Debug\DTO.pdb
+E:\BOOKSTORE\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\BOOKSTORE\BUS\obj\Debug\BUS.dll
+E:\BOOKSTORE\BUS\obj\Debug\BUS.pdb
+E:\Lập trình\BOOKSTORE\BUS\bin\Debug\BUS.dll
+E:\Lập trình\BOOKSTORE\BUS\bin\Debug\BUS.pdb
+E:\Lập trình\BOOKSTORE\BUS\bin\Debug\DAO.dll
+E:\Lập trình\BOOKSTORE\BUS\bin\Debug\DTO.dll
+E:\Lập trình\BOOKSTORE\BUS\bin\Debug\DAO.pdb
+E:\Lập trình\BOOKSTORE\BUS\bin\Debug\DTO.pdb
+E:\Lập trình\BOOKSTORE\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Lập trình\BOOKSTORE\BUS\obj\Debug\BUS.dll
+E:\Lập trình\BOOKSTORE\BUS\obj\Debug\BUS.pdb
+E:\Dropbox\BOOKSTORE\BUS\bin\Debug\BUS.dll
+E:\Dropbox\BOOKSTORE\BUS\bin\Debug\BUS.pdb
+E:\Dropbox\BOOKSTORE\BUS\bin\Debug\DAO.dll
+E:\Dropbox\BOOKSTORE\BUS\bin\Debug\DTO.dll
+E:\Dropbox\BOOKSTORE\BUS\bin\Debug\DAO.pdb
+E:\Dropbox\BOOKSTORE\BUS\bin\Debug\DTO.pdb
+E:\Dropbox\BOOKSTORE\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Dropbox\BOOKSTORE\BUS\obj\Debug\BUS.dll
+E:\Dropbox\BOOKSTORE\BUS\obj\Debug\BUS.pdb
+E:\Đồ án NM CNPM\BOOKSTORE\BUS\bin\Debug\BUS.dll
+E:\Đồ án NM CNPM\BOOKSTORE\BUS\bin\Debug\BUS.pdb
+E:\Đồ án NM CNPM\BOOKSTORE\BUS\bin\Debug\DAO.dll
+E:\Đồ án NM CNPM\BOOKSTORE\BUS\bin\Debug\DTO.dll
+E:\Đồ án NM CNPM\BOOKSTORE\BUS\bin\Debug\DAO.pdb
+E:\Đồ án NM CNPM\BOOKSTORE\BUS\bin\Debug\DTO.pdb
+E:\Đồ án NM CNPM\BOOKSTORE\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Đồ án NM CNPM\BOOKSTORE\BUS\obj\Debug\BUS.dll
+E:\Đồ án NM CNPM\BOOKSTORE\BUS\obj\Debug\BUS.pdb
