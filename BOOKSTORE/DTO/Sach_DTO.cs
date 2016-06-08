@@ -51,6 +51,5 @@ namespace DTO
             set { _donGiaBan = value; }
         }
 
-        public Sach_DTO() { }
     }
 }
